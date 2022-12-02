@@ -1,0 +1,5 @@
+#!/bin/bash
+read -p "Enter FirstName: " FIRST_NAME
+read -p "Enter LastName: " LAST_NAME
+read -p "Enter Nationality: " NATIONALITY
+echo Welcome $FIRST_NAME $LAST_NAME from $NATIONALITY
