@@ -1,0 +1,4 @@
+#!/bin/bash
+read -ep "Input first number: " FIRST
+read -ep "Input second number: " SECOND
+echo $(($FIRST + SECOND))
