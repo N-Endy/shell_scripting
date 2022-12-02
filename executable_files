@@ -1,0 +1,3 @@
+#!/bin/bash
+read -p "Enter team name: " tname
+chmod u+x *.$tname
