@@ -1,0 +1,2 @@
+#!/bin/bash
+sshpass -f.password_file ssh 3a10ba33a3cd@3a10ba33a3cd.32fbd0b4.alx-cod.online

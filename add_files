@@ -1,2 +1,2 @@
 #!/bin/bash
-touch empty1 empty2 > */
+touch file1 file2 > */
